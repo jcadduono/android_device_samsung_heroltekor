@@ -1,0 +1,2 @@
+add_lunch_combo omni_heroltekor-eng
+add_lunch_combo omni_heroltekor-userdebug
